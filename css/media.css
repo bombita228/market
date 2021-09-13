@@ -1,0 +1,40 @@
+@media(max-width: 575px){
+	.menu{
+		position: inherit;
+	}
+.menu a{
+	width: 100%;
+	padding: 20px 0px;
+}
+.header{
+	margin-top: 0;
+	padding: 100px 10px;
+	background-size: cover;
+	background-position: center center;
+}
+#about img{
+	float: none;
+	width: 90%;
+	margin: 10px 5%;
+}
+#about p{
+	line-height: 2;
+}
+#team .member{
+	min-width: 80%;
+}
+#tarifs .tarif{
+	min-width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
